@@ -11,5 +11,5 @@ I'm Kamil. No one really knows me well. I started my adventure with plugins in 2
 - 📫 How to reach me? Add me on discord.
 
 📨 Contact:
-- Discord: **Kamilo#0069**
+- Discord: **Kamilo#1429**
 
