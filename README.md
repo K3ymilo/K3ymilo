@@ -1,3 +1,4 @@
+<img align="center" src="https://i.imgur.com/VIuiamq.png">
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/K3ymilo">Keymilo</a></h2>
 
 <img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" />
