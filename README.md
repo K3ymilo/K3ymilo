@@ -5,6 +5,8 @@
 
 I'm Kamil. No one really knows me well. I started my adventure with plugins in 2015. I tried to learn on the fly how to write plugins, but there are important and more important things. In my spare time I write plugins for EasyHC and Survival servers.
 
+<img align="center" src="https://i.imgur.com/dJJXVAo.png">
+
 
 
 **👨‍💼 About me:**
