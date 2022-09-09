@@ -11,7 +11,7 @@ I'm Kamil. No one really knows me well. I started my adventure with plugins in 2
 **👨‍💼 About me:**
 - 👀 I am interested in arm wrestling, mma and emotional music.
 - 💰 I'm working in firm **F&F**
-- 📖 Learing backend web development, mainly Spring with Hibernate
+- 📖 Currently, I am still trying to increase my skills in java.
 - 🛠️ I am currently creating a server [TwoCastle](https://twocastle.pl/).
 - 📫 How to reach me? Add me on discord.
 
