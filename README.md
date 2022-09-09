@@ -33,5 +33,5 @@ I'm Kamil. No one really knows me well. I started my adventure with plugins in 2
 
 ***
 📨 Contact:
-- Discord: **Kamilo#1429**
+- Discord: **Kamilo#9286**
 
