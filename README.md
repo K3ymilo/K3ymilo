@@ -9,7 +9,7 @@ I'm Kamil. No one really knows me well. I started my adventure with plugins in 2
 
 
 **👨‍💼 About me:**
-- 👀 I am interested in arm wrestling, mma and emotional music.
+- 👀 I am interested in management of companies, emotional music.
 - 💰 I'm working in firm **F&F**
 - 📖 Currently, I am still trying to increase my skills in java.
 - 🛠️ I am currently creating a server [TwoCastle](https://twocastle.pl/).
