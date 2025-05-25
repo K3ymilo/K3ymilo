@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="http://vlepa.pl/e29c3b.png" height="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Keymilo</h1>
