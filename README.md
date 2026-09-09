@@ -23,5 +23,7 @@
 
 <table> 
   <tr> 
-    <td align="center"><img src="https://i.imgur.com/p2xAo3U.png https://i.imgur.com/ZQus7mP.png" width="400px" style="border-radius:10px;"><br><b>Projekt #1</b></td> 
+    <td align="center"><img src="https://i.imgur.com/ZQus7mP.png" width="400px" style="border-radius:10px;"><br><b>Szafka z Anarchia.gg</b></td>
+    <td align="center"><img src="https://i.imgur.com/4IJ9NqH.png" width="400px" style="border-radius:10px;"><br><b>Szafka z Anarchia.gg</b></td>
+    <td align="center"><img src="https://i.imgur.com/UB59lXS.png" width="400px" style="border-radius:10px;"><br><b>Szafka z Anarchia.gg</b></td>
   </tr> 
