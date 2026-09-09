@@ -20,10 +20,13 @@
 <p align="center">Przykładowe projekty</p>
 
 <div align="center">
-
-<table> 
-  <tr> 
-    <td align="center"><img src="https://i.imgur.com/ZQus7mP.png" width="400px" style="border-radius:10px;"><br><b>Szafka z Anarchia.gg</b></td>
-    <td align="center"><img src="https://i.imgur.com/4IJ9NqH.png" width="400px" style="border-radius:10px;"><br><b>Szafka z Anarchia.gg</b></td>
-    <td align="center"><img src="https://i.imgur.com/UB59lXS.png" width="400px" style="border-radius:10px;"><br><b>Szafka z Anarchia.gg</b></td>
-  </tr> 
+<table>
+  <tr>
+    <td align="center"><img src="https://i.imgur.com/ZQus7mP.png" width="400px" style="border-radius:10px;"></td>
+    <td align="center"><img src="https://i.imgur.com/4IJ9NqH.png" width="400px" style="border-radius:10px;"></td>
+    <td align="center"><img src="https://i.imgur.com/UB59lXS.png" width="400px" style="border-radius:10px;"></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><b>Szafka z Anarchia.gg</b></td>
+  </tr>
+</table>
