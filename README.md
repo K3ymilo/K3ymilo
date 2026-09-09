@@ -16,3 +16,12 @@
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=k3ymilo&show_icons=true&locale=en" alt="k3ymilo" />
 </p>
+
+<p align="center">Przykładowe projekty</p>
+
+<div align="center">
+
+<table> 
+  <tr> 
+    <td align="center"><img src="https://i.imgur.com/p2xAo3U.png https://i.imgur.com/ZQus7mP.png" width="400px" style="border-radius:10px;"><br><b>Projekt #1</b></td> 
+  </tr> 
