@@ -13,9 +13,6 @@
   💻 Open-Source projects: <a href="https://github.com/DreamPoland">DreamCode</a> <br>
 </p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=k3ymilo&show_icons=true&locale=en" alt="k3ymilo" />
-</p>
 
 <p align="center">Przykładowe projekty</p>
 
@@ -30,3 +27,7 @@
     <td colspan="3" align="center"><b>Szafka z Anarchia.gg</b></td>
   </tr>
 </table>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=k3ymilo&show_icons=true&locale=en" alt="k3ymilo" />
+</p>
