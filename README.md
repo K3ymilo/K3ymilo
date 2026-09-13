@@ -28,6 +28,18 @@
   </tr>
 </table>
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://i.imgur.com/gidimdh.png" width="400px" style="border-radius:10px;"></td>
+    <td align="center"><img src="https://i.imgur.com/SD9yc82.png" width="400px" style="border-radius:10px;"></td>
+    <td align="center"><img src="https://i.imgur.com/uciHwtE.png" width="400px" style="border-radius:10px;"></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><b>Skrzynki z Anarchia.gg</b></td>
+  </tr>
+</table>
+
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=k3ymilo&show_icons=true&locale=en" alt="k3ymilo" />
 </p>
